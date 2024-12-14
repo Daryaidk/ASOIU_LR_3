@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.018,=C:\Users\DASHA\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.592,=C:\Users\DASHA\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.111,=C:\Users\DASHA\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.664,=C:\Users\DASHA\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.195,=C:\Users\DASHA\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.619,=C:\Users\DASHA\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.140,=C:\Users\DASHA\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.899,C:\Users\DASHA\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\DASHA\Documents\Embarcadero\Studio\Projects\Unit_2_3_2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.337,C:\Users\DASHA\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\DASHA\Documents\Embarcadero\Studio\Projects\Report.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.855,C:\Users\DASHA\Documents\Embarcadero\Studio\Projects\Unit_2_1.dfm=C:\Users\DASHA\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.683,C:\Users\DASHA\Documents\Embarcadero\Studio\Projects\Unit_2_3_1.cpp=C:\Users\DASHA\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.728,=C:\Users\DASHA\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.887,C:\Users\DASHA\Documents\Embarcadero\Studio\Projects\LR_2.h=C:\Users\DASHA\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.887,C:\Users\DASHA\Documents\Embarcadero\Studio\Projects\LR_2.dfm=C:\Users\DASHA\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.683,C:\Users\DASHA\Documents\Embarcadero\Studio\Projects\Unit_2_3_1.h=C:\Users\DASHA\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.980,C:\Users\DASHA\Documents\Embarcadero\Studio\Projects\Unit_2_3.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.505,C:\Users\DASHA\Documents\Embarcadero\Studio\Projects\Unit_2_3.cpp=C:\Users\DASHA\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.157,=C:\Users\DASHA\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.590,C:\Users\DASHA\Documents\Embarcadero\Studio\Projects\Unit_2_2.cpp=C:\Users\DASHA\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.590,C:\Users\DASHA\Documents\Embarcadero\Studio\Projects\Unit_2_2.h=C:\Users\DASHA\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.899,C:\Users\DASHA\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\DASHA\Documents\Embarcadero\Studio\Projects\Unit_2_3_2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.337,C:\Users\DASHA\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\DASHA\Documents\Embarcadero\Studio\Projects\Report.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.855,C:\Users\DASHA\Documents\Embarcadero\Studio\Projects\Unit_2_1.cpp=C:\Users\DASHA\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.855,C:\Users\DASHA\Documents\Embarcadero\Studio\Projects\Unit_2_1.h=C:\Users\DASHA\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.899,C:\Users\DASHA\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\DASHA\Documents\Embarcadero\Studio\Projects\Unit_2_3_2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.337,C:\Users\DASHA\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\DASHA\Documents\Embarcadero\Studio\Projects\Report.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.590,C:\Users\DASHA\Documents\Embarcadero\Studio\Projects\Unit_2_2.dfm=C:\Users\DASHA\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.050,C:\Users\DASHA\Documents\Embarcadero\Studio\Projects\Project2PCH1.h=C:\Users\DASHA\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.683,C:\Users\DASHA\Documents\Embarcadero\Studio\Projects\Unit_2_3_1.dfm=C:\Users\DASHA\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.505,C:\Users\DASHA\Documents\Embarcadero\Studio\Projects\Unit_2_3.dfm=C:\Users\DASHA\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.505,C:\Users\DASHA\Documents\Embarcadero\Studio\Projects\Unit_2_3.h=C:\Users\DASHA\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.887,C:\Users\DASHA\Documents\Embarcadero\Studio\Projects\LR_2.cpp=C:\Users\DASHA\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.066,C:\Users\DASHA\Documents\Embarcadero\Studio\Projects\Project2.cbproj=C:\Users\DASHA\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2024.12.14 16:35:28.410,=C:\Users\DASHA\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024.12.14 16:36:57.021,C:\Users\DASHA\Documents\Embarcadero\Studio\Projects\Report_1.h=C:\Users\DASHA\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2024.12.14 16:36:57.021,C:\Users\DASHA\Documents\Embarcadero\Studio\Projects\Report_1.dfm=C:\Users\DASHA\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024.12.14 16:36:57.021,C:\Users\DASHA\Documents\Embarcadero\Studio\Projects\Report_1.cpp=C:\Users\DASHA\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
